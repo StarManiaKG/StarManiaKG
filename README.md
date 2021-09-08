@@ -1,4 +1,4 @@
-Guy who made a SRB2 Uncapped Plus Appimage for Linux.
+Guy who compiled the SRB2 Uncapped Plus Custom Build for Linux.
 
 STEP 1
 --To get the git and build it:
