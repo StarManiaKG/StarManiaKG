@@ -88,5 +88,3 @@ git pull
 ```
 
 Then compile it all over again.
-
-Or if you want to do it the easy way, just download the AppImage file from my releases tab and just get the necessary srb2 resources (like srb2.pk3 and stuff) from here https://github.com/STJr/SRB2/releases/download/SRB2_release_2.2.9/SRB2-v229-Full.zip
