@@ -15,5 +15,5 @@ git pull
 ```
 Then compile it all over again:
 ```
-   make LIBGME_CFLAGS=-I/usr/include LIBGME_LDFLAGS=-lgme -C src/ LINUX64=1
+make LIBGME_CFLAGS=-I/usr/include LIBGME_LDFLAGS=-lgme -C src/ LINUX64=1
 ```
