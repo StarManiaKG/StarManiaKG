@@ -3,6 +3,7 @@ heheheha
 
 
 amatuer game developer and coder
+
 i can still code some things though (mainly lua and a bit of C)
 
 
