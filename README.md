@@ -1,9 +1,11 @@
-heheheha
+Self-Hired Game Developer
+I typically code in Lua, SRB2Lua (BLua), and C.
+I dabble in the worlds of C++, Python, and Verse, but I'm more experienced with Python.
 #
-amatuer game developer and coder, and by amatuer i mean i'm a minor lol
+I use both Windows and Linux, so horray for equality I guess :P
 #
-i can still code some things though (mainly lua and C, though i know more about the former than the latter)
+if you have any questions, which you probably will have most likely judging by my life choices, you can find me in a couple of places:
+  - Discord, at StarManiaKG(#4884), or
+  - The SRB2 Message Board, which goes by StarManiaKG
 #
-I mainly use a windows for everything i do, and it can also efficiently emulate a Linux desktop too, so you know, equality :p
-#
-if you have any questions, which you probably will have most likely judging by my life choices, dm me on discord at StarManiaKG#4884, or my SRB2 Message Board account, which also goes by the same name.
+Take Care!
