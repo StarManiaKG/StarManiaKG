@@ -1,4 +1,5 @@
-Self-Hired Game Developer
+Coder, Programmer
+
 I typically code in Lua, SRB2Lua (BLua), and C.
 I dabble in the worlds of C++, Python, and Verse, but I'm more experienced with Python.
 #
